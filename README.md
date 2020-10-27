@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Kelvin Wong 👋
 
 <!--
 **moyinwong/moyinwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my CS50 IOS project
+- 🌱 I’m currently learning Swift, Angular, Ionic, Git
+- 📫 How to reach me: linkedin.com/in/kwcy
