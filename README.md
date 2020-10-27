@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my CS50 IOS project
+
 - 🌱 I’m currently learning Swift, Angular, Ionic, Git
+
 - 📫 How to reach me: linkedin.com/in/kwcy
