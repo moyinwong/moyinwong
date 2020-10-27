@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: linkedin.com/in/kwcy
 
-Feel free to browse my repos
+Feel free to browse my repos:
+- **E-ducate.life**: an online educational platform developed in React, Redux, Typescript, Node.js and Express
+- **QubeAI**: a Rubik's Cube solver developed in Python, TensorFlow, Flask, React, OpenCV, Three.js
+- **Tecklance**: a marketplace for freelance service, developed in HTML5, CSS3, Javascript, Typescript, Node.js and Express
