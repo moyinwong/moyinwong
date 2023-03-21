@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my CS50 IOS project
-
-- 🌱 I’m currently learning Swift, Angular, Ionic, Git
+- 🔭 I’m currently working on Vue applications, NestJs microservices and occasionally Flutter app development
 
 - 📫 How to reach me: linkedin.com/in/kwcy
 
